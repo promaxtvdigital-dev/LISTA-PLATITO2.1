@@ -71,10 +71,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/radiologos/RadioDisney.jpg" group-title="Radios - Argentina",Radio Disney Argentina 94.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
 
-# EXTINF : -1  tvg-id = " C5N.ar "  tvg-logo = " https://i.imgur.com/5ZNZYjO.png "  group-title = " Noticias " , C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-
-#EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png", C5N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png" tvg-id="0932" tvg-name="C5N" group-title="Noticias",  C5N
 https://full-online.xyz/proxy/ssl/?url=http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/c5n_720.m3u8
 
 # EXTINF : -1  tvg-id = " Canal13SanJuan.ar "  tvg-logo = " https://pbs.twimg.com/profile_images/1617246021/Captura_de_pantalla_2011-11-01_a_las_11.42.42_400x400.png "  group-title = " General " , Canal 13 San Juan
