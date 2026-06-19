@@ -53,9 +53,6 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/TVPublica.png" group-title="Generales",TV Pública
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/ElTrece.png" group-title="Generales",El Trece
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/A24.png" group-title="Noticias",A24
 https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
 
