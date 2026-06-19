@@ -17,7 +17,10 @@ https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_
 #EXTINF:-1 tvg-id="0909" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="General/Abierta",Telefe
 https://full-online.xyz/proxy/ssl/?url=http://45.225.40.206:12080/Live/4107b24939e8872f74a7a57a545d71ee/telefe.playlist.m3u8
 
-#EXTINF:-1 tvg-id="0915" tvg-logo="https://files.catbox.moe/finwuj.png" group-title="General/Abierta",El Trece
+#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png", El Trece
+#EXTVLCOPT:http-referrer=https://vodgc.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="0916" tvg-logo="https://files.catbox.moe/5xa4p6.png" group-title="General/Abierta",Canal 9
