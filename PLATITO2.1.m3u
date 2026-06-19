@@ -74,15 +74,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png" tvg-id="0932" tvg-name="C5N" group-title="Noticias",  C5N
 https://full-online.xyz/proxy/ssl/?url=http://45.225.40.206:12080/Live/4381001cf7c4e271491f5484da2d8304/c5n_720.m3u8
 
-#EXTINF:-1 tvg-id="Canal4SanJuan.ar@HD" tvg-logo="https://i.imgur.com/MsCnwRA.png" group-title="Undefined",Canal 4 San Juan (576p)
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal34SanJuan.ar@HD" tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="General",Canal 34 San Juan (720p)
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports",FOX Sports (720p)
-https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
-
 #EXTINF:-1 tvg-id="TVPublica.ar@HD" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="General",TV Publica (576p)
 https://ola1.com.ar/tvpublica/index.m3u8
 
