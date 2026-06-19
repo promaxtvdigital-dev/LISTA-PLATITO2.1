@@ -110,9 +110,6 @@ https://tinyurl.com/tvespn2b
 #EXTINF:-1 group-title="INFANTILES",Discovery Kids HD
 http://138.117.81.96:8000/play/a0gn/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",TYC PRUEBA HD
-https://away.vk.com/away.php?rh=33e4e9cc-9f72-4520-ab67-8d978b2edb9e
-
 #EXTINF:-1 group-title="ARGENTINA",TELEFE
 http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
 
