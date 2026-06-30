@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/960px-Canal_26_logo_%282022%29.svg.png" group-title="NOTICIAS",26TV (1080p)
+http://190.7.19.197:232/play/a042/index.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="DEPORTES",TYC SPORTS
+http://190.7.19.197:232/play/a04w/index.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/DSports_logo_2022.png" group-title="DEPORTES",DSPORTS 1 (1080p)
+http://190.7.19.197:232/play/a09i/index.m3u8
+
+
+#EXTM3U
+#EXTINF:0 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/DSports_logo_2022.png" group-title="DEPORTES",DSPORTS 2 (1080p)
+http://190.7.19.197:232/play/a09h/index.m3u8
